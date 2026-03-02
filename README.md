@@ -1,12 +1,12 @@
 # Alemorii
 
-Exploring the low-level world.
+Exploring the low-level.
 
 Currently interested in:
-- systems programming
-- operating systems
+- os
 - performance engineering
 - Learning rust and back
 - Student of engineer
+- i use arch btw
 
 > Never knows best.
